@@ -20,6 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikleshfernando&show_icons=true&locale=en&layout=compact" alt="nikleshfernando" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikleshfernando&show_icons=true&locale=en" alt="nikleshfernando" /></p>
 www.buymeacoffee.com/niklesh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="niklesh" /></a></p><br><br>
 
